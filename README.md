@@ -1,6 +1,6 @@
-**Intent to buy Lead Prediction**
-**
-Project Overview**
+## **Intent to buy Lead Prediction**
+
+## Project Overview**
 There are various marketing touchpoints or paths a buyer encounter on their path to purchase. In fact, according to Flaherty, T. (2023) “there are on average 27 different communication touch points before a deal is won”. This becomes even more difficult when dealing with an account (company) rather than an individual. Marketing is responsible for running various campaigns across multiple channels to generate leads that potentially get converted into won opportunities by Sales. How can marketing as a function effectively measure its value contribution to the organisation in an industry where 78% of generated revenue comes from existing client's through (cross sell and upsell) Flaherty, T. (2023)?
 
 Why Machine Learning
