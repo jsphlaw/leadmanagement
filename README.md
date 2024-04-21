@@ -35,4 +35,4 @@ Overall, the Decision Tree Classifier outperformed the other models, demonstrati
 
 <img width="416" alt="image" src="https://github.com/jsphlaw/leadmanagement/assets/167654027/8697aa37-c3d8-4915-88d3-5e0ffe8376fc">
 
-
+Flaherty, T. (2023) The “Goodbye MQL” Transformation Accelerates — Moving From Wild Idea to Reality. Available at: https://www.forrester.com/blogs/the-goodbye-mql-transformation-accelerates-moving-from-wild-idea-to-reality/ Links to an external site.(Accessed 8th Oct 2023).
