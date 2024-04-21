@@ -36,9 +36,3 @@ Overall, the Decision Tree Classifier outperformed the other models, demonstrati
 <img width="416" alt="image" src="https://github.com/jsphlaw/leadmanagement/assets/167654027/8697aa37-c3d8-4915-88d3-5e0ffe8376fc">
 
 
-You can include images of plots using the code below:
-![Screenshot](image.png)
-
-## (OPTIONAL: CONTACT DETAILS)
-If you are planning on making your github repo public you may wish to include some contact information such as a link to your twitter or an email address. 
-
