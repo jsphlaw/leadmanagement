@@ -10,14 +10,22 @@ See the [example Google model cards](https://modelcards.withgoogle.com/model-rep
 
 **Model Architecture:** Describe the model architecture you’ve used
 
+The model aims to predict lead conversion likelihood for X Education using various customer attributes. It assigns a lead score 0 or 1 to each lead (1 having high probability of conversion and 0 having low probability of conversion), indicating the probability of conversion, enabling prioritization of leads by the sales team.
+
 ## Performance
 
-Give a summary graph or metrics of how the model performs. Remember to include how you are measuring the performance and what data you analysed it on. 
+Decision Tree Classifier: Achieved the highest performance with an accuracy score of 80.3% on the validation set.
+Random Forest Classifier: Yielded an accuracy score of 77% on the validation set.
+AdaBoost Classifier: Showed a performance close to the Decision Tree Classifier, with an accuracy score of 79% on the validation set.
 
 ## Limitations
 
-Outline the limitations of your model.
+Dependency on Historical Data: The model's performance may be limited by changes in customer behavior or market dynamics not captured in the training data.
+Interpretability: Decision tree-based models offer high performance but may lack interpretability compared to simpler models like logistic regression.
+Overfitting: Decision tree-based models are prone to overfitting, especially with complex datasets, which may lead to poor generalization on unseen data.
 
 ## Trade-offs
 
-Outline any trade-offs of your model, such as any circumstances where the model exhibits performance issues. 
+Decision Tree Classifier: Offers high performance but may sacrifice interpretability.
+Random Forest Classifier: Provides robustness against overfitting but may be computationally expensive.
+AdaBoost Classifier: Balances between model complexity and performance but may require tuning of hyperparameters.
